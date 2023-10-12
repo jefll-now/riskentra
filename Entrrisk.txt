@@ -1,0 +1,4 @@
+"AadClientId": "8ae73dc8-2636-4a12-9159-7aade30142e1",
+  "AadSecret": "L0k8Q~ZXgcwYTMWxrB0~~cCyAhrqmyLpvx0t9db8",
+  "AadTenantDomain": "mwnow.biz",
+  "AadTenantId": "347eea9c-6c51-432a-a792-33ed3348e801",
